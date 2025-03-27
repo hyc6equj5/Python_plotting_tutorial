@@ -1,6 +1,6 @@
 # Python_plotting_tutorial
-
-You can install python in your local
+'''Github is an engineering dating website'''
+You can install python in your local 
 
 ### some good install links (chinese version): 
 - https://www.pcschool.com.tw/blog/it/python-installation
@@ -8,6 +8,10 @@ You can install python in your local
 - https://medium.com/@sajhon_chen4/vs-code%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-3ccb1570e5cf  (vscode 安裝)
 
 ### basic tutorial
+大家可以把這個網站的遊戲玩完，你們基本上就會python 了!!!!
+- https://www.w3schools.com/python/ 
+- 
+
 - https://pythonbasics.org/
 - https://steam.oxxostudio.tw/category/python/index.html#google_vignette
 
