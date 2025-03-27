@@ -19,3 +19,5 @@ You can install python in your local
 
 ## The best teacher of the world
 Ask ChatGPT for help! We have to know how to ask for help nowadays!
+https://www.youtube.com/watch?v=tVxy1QDYapQ
+
